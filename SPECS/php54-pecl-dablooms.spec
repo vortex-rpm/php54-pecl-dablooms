@@ -11,7 +11,7 @@
 %global _version 0.9.1
 
 Summary: A Scalable, Counting, Bloom Filter
-Name: %{php_base}-pecl-xhprof
+Name: %{php_base}-pecl-dablooms
 
 Version: %{_version}
 Release: 1.vortex%{?dist}
